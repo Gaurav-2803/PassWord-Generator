@@ -112,3 +112,4 @@ else:
     clear()                                 #Clear_Fn_Call
     color_red()                             #Red_Color_Fn_Call
     print("============================\nInvalid Input >>> Try Again\n============================\n\t |<:ERROR:>|\n\tInvalid Input\n============================") 
+input("Hit Enter To Exit")    
